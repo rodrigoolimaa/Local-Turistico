@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ by Rocketseat
+<p align="center">Feito com ♥ by Rocketseat</p>
